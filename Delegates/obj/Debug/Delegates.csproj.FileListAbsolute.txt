@@ -1,0 +1,7 @@
+C:\TechCodeLib\blogs\01 delegates\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\TechCodeLib\blogs\01 delegates\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\TechCodeLib\blogs\01 delegates\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\TechCodeLib\blogs\01 delegates\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\TechCodeLib\blogs\01 delegates\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\TechCodeLib\blogs\01 delegates\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\TechCodeLib\blogs\01 delegates\Delegates\Delegates\obj\Debug\Delegates.pdb
